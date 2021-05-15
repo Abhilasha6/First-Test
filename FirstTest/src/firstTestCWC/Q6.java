@@ -40,7 +40,7 @@ public class Q6 {
 							
 						}
 						*/
-				//	if(arr[0][col]>arr[0][col+1]) //if it doesnt work then write[i] instead of[0]					
+				//if(arr[0][col]>arr[0][col+1]) //if it doesnt work then write[i] instead of[0]					
 					if(arrrow[col]>arrrow[col+1])
 						{
 						dup=arrrow[col];//arr[0][col];
