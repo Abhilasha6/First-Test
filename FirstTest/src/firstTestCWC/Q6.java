@@ -77,6 +77,7 @@ public class Q6 {
 		case 2:
 			System.out.println("the elements in descending order are ");
 			
+			break;
 		}
 	}
 
