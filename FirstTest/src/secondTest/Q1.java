@@ -48,4 +48,5 @@ public class Q1 {
 		prod=a[0]*b[n1-1];
 		System.out.println("the product of minimum element of 1st array and maximum element of 2nd array = "+prod);
 	}
+	
 }
